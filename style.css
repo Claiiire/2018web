@@ -80,10 +80,11 @@ body{
 .BOX2{
 	position: absolute;
 	display: block;
-	width: 940px;
+	width: 1024px;
 	margin: 0 auto;
 	height: 496px;
 	overflow: hidden;
+
 }
 
 .BOX2 img{
